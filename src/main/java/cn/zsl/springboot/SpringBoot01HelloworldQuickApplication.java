@@ -10,5 +10,8 @@ public class SpringBoot01HelloworldQuickApplication {
 
 		SpringApplication.run(SpringBoot01HelloworldQuickApplication.class, args);
 //zsl简单使用git
+		
+		
+		
 	}
 }
